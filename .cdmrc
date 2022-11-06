@@ -1,1 +1,2 @@
-tabs: ['script.js']
+tabs: ["script.js"]
+terminal-one: "static-server -p 1337 --no-cache"

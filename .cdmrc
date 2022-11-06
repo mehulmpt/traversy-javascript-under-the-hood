@@ -1,2 +1,2 @@
-tabs: ["script.js"]
-terminal-one: "static-server -p 1337 --no-cache"
+run-button: node script.js
+tabs: ['script.mjs', 'contents.txt']
